@@ -30,7 +30,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   This website provides access the Sense–Assess–eXplain (SAX) dataset.
   This dataset is used to study autonomous vehicles across a wide range of situations, 
   such as crowded city blocks or off road. 
-baseurl: "/test" # the subpath of your site, e.g. /blog
+
 #url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  widojoman
 author: Matthew Widojo
